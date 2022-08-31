@@ -1,1 +1,1 @@
-lists all the files of different directories in long formart
+This is a script that prints the type of the file named iamafile
