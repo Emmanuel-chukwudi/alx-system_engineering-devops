@@ -1,1 +1,1 @@
-changes directory to the previous one
+lists all the files of different directories in long formart
