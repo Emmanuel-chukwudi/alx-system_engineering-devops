@@ -1,1 +1,1 @@
-This will write a script that displays a confused smiley (Ôo)
+This will display the content of the /etc/passwd file
