@@ -1,1 +1,1 @@
-This will write a shell script that creates a file named exactly (file contents) containing the text Best School ending by a new line
+This will write a script that writes into the file ls_cwd_content the result of the command ls -la
