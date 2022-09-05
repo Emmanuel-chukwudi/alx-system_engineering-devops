@@ -1,1 +1,2 @@
-This will create a script that takes a list of words as input and prints only words that appear exactly once
+Dont just count your directories, make your directories count > README.md
+echo Dont just count your directories, make your directories count
