@@ -1,2 +1,1 @@
-Dont just count your directories, make your directories count > README.md
-echo Dont just count your directories, make your directories count
+This will display lines containing the pattern "root" from the file /etc/passwd
