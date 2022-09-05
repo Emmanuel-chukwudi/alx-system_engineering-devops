@@ -1,1 +1,1 @@
-This will display the content of /etc/passwd and /etc/hosts
+This will display the last 10 lines of /etc/passwd
