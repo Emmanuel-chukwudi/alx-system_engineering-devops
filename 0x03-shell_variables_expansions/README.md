@@ -1,1 +1,1 @@
-This will write a script that prints every other line from the input, starting with the first line
+This will write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
