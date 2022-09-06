@@ -1,1 +1,1 @@
-This will create a script that lists environment variables
+This will create a script that lists all local variables and environment variables, and functions
